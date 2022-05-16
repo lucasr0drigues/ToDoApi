@@ -1,0 +1,12 @@
+C:\Balta\todoapi\ToDoApi.Domain\bin\Debug\net6.0\todoapi.domain.deps.json
+C:\Balta\todoapi\ToDoApi.Domain\bin\Debug\net6.0\todoapi.domain.dll
+C:\Balta\todoapi\ToDoApi.Domain\bin\Debug\net6.0\todoapi.domain.pdb
+C:\Balta\todoapi\ToDoApi.Domain\obj\Debug\net6.0\todoapi.domain.csproj.AssemblyReference.cache
+C:\Balta\todoapi\ToDoApi.Domain\obj\Debug\net6.0\todoapi.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta\todoapi\ToDoApi.Domain\obj\Debug\net6.0\todoapi.domain.AssemblyInfoInputs.cache
+C:\Balta\todoapi\ToDoApi.Domain\obj\Debug\net6.0\todoapi.domain.AssemblyInfo.cs
+C:\Balta\todoapi\ToDoApi.Domain\obj\Debug\net6.0\todoapi.domain.csproj.CoreCompileInputs.cache
+C:\Balta\todoapi\ToDoApi.Domain\obj\Debug\net6.0\todoapi.domain.dll
+C:\Balta\todoapi\ToDoApi.Domain\obj\Debug\net6.0\refint\todoapi.domain.dll
+C:\Balta\todoapi\ToDoApi.Domain\obj\Debug\net6.0\todoapi.domain.pdb
+C:\Balta\todoapi\ToDoApi.Domain\obj\Debug\net6.0\ref\todoapi.domain.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FOzNlYlqDztsmRy1kaSMtolc3JcbwQHOkJi/JSHrV60BAS07o68FhVZcnCM4O4fSIJ5swmZ77y0hR2hEZTRjXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Balta\\todoapi\\ToDoApi.Domain\\todoapi.domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
